@@ -27,4 +27,4 @@ var ContactForm = React.createClass({
             )
         )
     },
-})
+});
